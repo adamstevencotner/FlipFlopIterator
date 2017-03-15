@@ -1,0 +1,9 @@
+C:\Users\Adam\Code\FlipFlopIterator\FlipFlopIteratorTests\bin\Debug\FlipFlopIteratorTests.dll
+C:\Users\Adam\Code\FlipFlopIterator\FlipFlopIteratorTests\bin\Debug\FlipFlopIteratorTests.pdb
+C:\Users\Adam\Code\FlipFlopIterator\FlipFlopIteratorTests\bin\Debug\FlipFlopIterator.dll
+C:\Users\Adam\Code\FlipFlopIterator\FlipFlopIteratorTests\bin\Debug\nunit.framework.dll
+C:\Users\Adam\Code\FlipFlopIterator\FlipFlopIteratorTests\bin\Debug\FlipFlopIterator.pdb
+C:\Users\Adam\Code\FlipFlopIterator\FlipFlopIteratorTests\bin\Debug\nunit.framework.xml
+C:\Users\Adam\Code\FlipFlopIterator\FlipFlopIteratorTests\obj\Debug\FlipFlopIteratorTests.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Code\FlipFlopIterator\FlipFlopIteratorTests\obj\Debug\FlipFlopIteratorTests.dll
+C:\Users\Adam\Code\FlipFlopIterator\FlipFlopIteratorTests\obj\Debug\FlipFlopIteratorTests.pdb

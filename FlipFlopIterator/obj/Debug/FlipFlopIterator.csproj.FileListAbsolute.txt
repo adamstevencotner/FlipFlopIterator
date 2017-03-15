@@ -1,0 +1,5 @@
+C:\Users\Adam\Code\FlipFlopIterator\FlipFlopIterator\bin\Debug\FlipFlopIterator.dll
+C:\Users\Adam\Code\FlipFlopIterator\FlipFlopIterator\bin\Debug\FlipFlopIterator.pdb
+C:\Users\Adam\Code\FlipFlopIterator\FlipFlopIterator\obj\Debug\FlipFlopIterator.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Code\FlipFlopIterator\FlipFlopIterator\obj\Debug\FlipFlopIterator.dll
+C:\Users\Adam\Code\FlipFlopIterator\FlipFlopIterator\obj\Debug\FlipFlopIterator.pdb
