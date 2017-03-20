@@ -7,7 +7,7 @@ Preemptive tldr; [here's the code.](https://github.com/adamstevencotner/FlipFlop
 ### Summary
 Normal iteration is boring! Why not switch it up? In fact, why not switch it up on each iteration?
 
-Outward-spiral iteration moves through a two dimentional ordered set from a start-index outward in both directions. Meaning, if we have an array
+This outward-spiral iteration moves through a one-dimentional ordered set from a start-index outward in both directions. Meaning, if we have an array
 ```
 int array[] = { 0, 1, 2, 3, 4 };
 ```
